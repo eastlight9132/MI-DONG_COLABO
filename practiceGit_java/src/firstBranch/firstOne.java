@@ -1,0 +1,10 @@
+package firstBranch;
+
+public class firstOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
